@@ -1,3 +1,3 @@
 In the following project, I will create a recipe website using all the skills I have learned so far. This includes setting up a GitHub repository, cloning repositories, and adding, committing, and pushing newly created or modified files to GitHub.
 
-I will also apply all the HTML skills that The Odin Project has taught me up to this point, including setting up the HTML boilerplate and using elements such as <h1></h1>, <p></p>, <strong></strong>, <ol></ol>, <ul></ul>, <li></li>, <a></a>, and <img>, as well as the attributes associated with some of these elements.
+I will also apply all the HTML skills that The Odin Project has taught me up to this point, including setting up the HTML boilerplate and using elements, as well as the attributes associated with some of these elements.
